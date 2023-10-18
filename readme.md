@@ -1,21 +1,10 @@
-Some basic Git commands are:
+Information :
 ```
-git status
-git add
-git commit
-```
-> [!NOTE]  
-> My test.
+> [ManageDriver]  
+> Selection to switch between Chrome, Firefox, Edge or Safari.
 
-> [!IMPORTANT]   
-> Crucial information
+> [PropertyReader]   
+> To read Property from Properties file, also option to add more URLs for staging environment.
 
-> [!WARNING]  
-> Critical content
-
-|  Attempt  |   #1 |   #2 |   #3 |   #4 |   #5 | 
-|:---------:|-----:|-----:|-----:|-----:|-----:|
-|  Seconds  |  301 |  283 |  290 |  286 |  289 | 
-|   Hour    |   11 |   22 |   45 |   90 |  120 |
-|  Minutes  |  150 |  242 |  425 |  910 |  162 |
-
+> [Utility]  
+> Helper Java Class, Including some JavaScript methods.
